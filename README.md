@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Katx510
+- 👀 I’m interested in Kotlin, Lua, Java, TypeScript, Dart, C++, CSharp, Scala? (learning possibly)
+- 🌱 I’m currently learning: Interpreters & UI Development
+- 💞️ I’m looking to collaborate on UI projects, anything to help me learn more and grow stronger as a developer!
+- 📫 How to reach me: Discord = ```_chipset_```
+- 😄 I am a male. i love reading, traveling, coding, cooking food and enjoying life including nature as well
+- ⚡ Fun fact: code is love, code is life, code is everywhere and without code lies no oppertunities. 
