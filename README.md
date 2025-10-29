@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Katx510
-- 👀 I’m interested in Adding features to open source projects ;)
-- 🌱 I’m currently learning: How to make money with my skills
+- 👀 I’m interested in Adding features to open source projects :)
+- 🌱 I’m currently learning: Game Development, Game Engines :)
 - 💞️ I’m looking to collaborate on Something easy please. don't go hard on me ;(
-- 📫 How to reach me: Discord = ```rxchxipset```
-- 😄 I am a male. i love reading, traveling, coding, cooking food and enjoying life including nature as well
-- ⚡ Fun fact: code is love, code is life, code is everywhere and without code lies no oppertunities. 
+- 📫 How to reach me: Discord = ```whisperinggarden```
+- 😄 i love reading, traveling, coding, cooking food and enjoying life including nature as well
+- ⚡ Fun fact: code is love, code is life, code is everywhere and without code lies no oppertunities.
